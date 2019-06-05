@@ -1,0 +1,23 @@
+11/02/18 15:49:09 v1.34.5 @ cryptopuff-5, 
+11/02/18 15:49:09 v1.34.5 @ cryptopuff-5, ****************************
+11/02/18 15:49:09 v1.34.5 @ cryptopuff-5, Starting factorization of 108870988022691680203282699171140590144715177763033630803491334670520693011321
+11/02/18 15:49:09 v1.34.5 @ cryptopuff-5, using pretesting plan: normal
+11/02/18 15:49:09 v1.34.5 @ cryptopuff-5, no tune info: using qs/gnfs crossover of 95 digits
+11/02/18 15:49:09 v1.34.5 @ cryptopuff-5, ****************************
+11/02/18 15:49:09 v1.34.5 @ cryptopuff-5, rho: x^2 + 3, starting 1000 iterations on C78
+11/02/18 15:49:09 v1.34.5 @ cryptopuff-5, rho: x^2 + 2, starting 1000 iterations on C78
+11/02/18 15:49:09 v1.34.5 @ cryptopuff-5, rho: x^2 + 1, starting 1000 iterations on C78
+11/02/18 15:49:09 v1.34.5 @ cryptopuff-5, pm1: starting B1 = 150K, B2 = gmp-ecm default on C78
+11/02/18 15:49:09 v1.34.5 @ cryptopuff-5, current ECM pretesting depth: 0.00
+11/02/18 15:49:09 v1.34.5 @ cryptopuff-5, scheduled 30 curves at B1=2000 toward target pretesting depth of 24.00
+11/02/18 15:49:09 v1.34.5 @ cryptopuff-5, Finished 30 curves using Lenstra ECM method on C78 input, B1=2K, B2=gmp-ecm default
+11/02/18 15:49:09 v1.34.5 @ cryptopuff-5, current ECM pretesting depth: 15.18
+11/02/18 15:49:09 v1.34.5 @ cryptopuff-5, scheduled 74 curves at B1=11000 toward target pretesting depth of 24.00
+11/02/18 15:49:12 v1.34.5 @ cryptopuff-5, Finished 74 curves using Lenstra ECM method on C78 input, B1=11K, B2=gmp-ecm default
+11/02/18 15:49:12 v1.34.5 @ cryptopuff-5, current ECM pretesting depth: 20.24
+11/02/18 15:49:12 v1.34.5 @ cryptopuff-5, scheduled 161 curves at B1=50000 toward target pretesting depth of 24.00
+11/02/18 15:49:33 v1.34.5 @ cryptopuff-5, Finished 161 curves using Lenstra ECM method on C78 input, B1=50K, B2=gmp-ecm default
+11/02/18 15:49:33 v1.34.5 @ cryptopuff-5, final ECM pretested depth: 24.00
+11/02/18 15:49:33 v1.34.5 @ cryptopuff-5, scheduler: switching to sieve method
+11/02/18 15:49:33 v1.34.5 @ cryptopuff-5, starting SIQS on c78: 108870988022691680203282699171140590144715177763033630803491334670520693011321
+11/02/18 15:49:33 v1.34.5 @ cryptopuff-5, random seeds: 442379789, 3888990564

@@ -1,0 +1,81 @@
+11/02/18 14:58:18 v1.34.5 @ cryptopuff-5, System/Build Info: 
+Using GMP-ECM 6.4.4, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz
+detected L1 = 32768 bytes, L2 = 31457280 bytes, CL = 64 bytes
+measured cpu frequency ~= 2200.151970
+using 20 random witnesses for Rabin-Miller PRP checks
+
+11/02/18 14:58:18 v1.34.5 @ cryptopuff-5, New random seeds: 1529315696, 680610175
+
+11/02/18 15:42:56 v1.34.5 @ cryptopuff-5, System/Build Info: 
+Using GMP-ECM 6.4.4, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz
+detected L1 = 32768 bytes, L2 = 31457280 bytes, CL = 64 bytes
+measured cpu frequency ~= 2199.995960
+using 20 random witnesses for Rabin-Miller PRP checks
+
+11/02/18 15:42:56 v1.34.5 @ cryptopuff-5, New random seeds: 3865077922, 1284444147
+
+11/02/18 15:44:40 v1.34.5 @ cryptopuff-5, Processing expression: 
+
+11/02/18 15:44:43 v1.34.5 @ cryptopuff-5, Processing expression: 
+
+11/02/18 15:45:55 v1.34.5 @ cryptopuff-5, System/Build Info: 
+Using GMP-ECM 6.4.4, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz
+detected L1 = 32768 bytes, L2 = 31457280 bytes, CL = 64 bytes
+measured cpu frequency ~= 2199.987370
+using 20 random witnesses for Rabin-Miller PRP checks
+
+11/02/18 15:45:55 v1.34.5 @ cryptopuff-5, New random seeds: 2622971491, 3810591480
+
+11/02/18 15:45:55 v1.34.5 @ cryptopuff-5, Processing expression: MCgCIQDwssuoDUXBtHvaMqU043sP8UimUBYHVB1c8UC2+V+zeQIDAQAB
+
+
+11/02/18 15:46:03 v1.34.5 @ cryptopuff-5, System/Build Info: 
+Using GMP-ECM 6.4.4, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz
+detected L1 = 32768 bytes, L2 = 31457280 bytes, CL = 64 bytes
+measured cpu frequency ~= 2200.000670
+using 20 random witnesses for Rabin-Miller PRP checks
+
+11/02/18 15:46:03 v1.34.5 @ cryptopuff-5, New random seeds: 3386053636, 1948646896
+
+11/02/18 15:46:09 v1.34.5 @ cryptopuff-5, Processing expression: 
+
+11/02/18 15:47:08 v1.34.5 @ cryptopuff-5, Processing expression: 140870298550359924914704160737419905257747544866892632000062896476968602578482966342704
+
+11/02/18 15:47:12 v1.34.5 @ cryptopuff-5, Processing expression: 
+
+11/02/18 15:47:13 v1.34.5 @ cryptopuff-5, Processing expression: [A
+
+11/02/18 15:47:16 v1.34.5 @ cryptopuff-5, Processing expression: 140870298550359924914704160737419905257747544866892632000062896476968602578482966342704
+
+11/02/18 15:47:21 v1.34.5 @ cryptopuff-5, Processing expression: 140870298550359924914704160737419905257747544866892632000062896476968602578482966342704123
+
+11/02/18 15:54:39 v1.34.5 @ cryptopuff-5, Processing expression: 
+
+11/02/18 15:54:39 v1.34.5 @ cryptopuff-5, Processing expression: 
+
+11/02/18 15:54:41 v1.34.5 @ cryptopuff-5, Processing expression: :q
+
+11/02/18 15:54:46 v1.34.5 @ cryptopuff-5, System/Build Info: 
+Using GMP-ECM 6.4.4, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz
+detected L1 = 32768 bytes, L2 = 31457280 bytes, CL = 64 bytes
+measured cpu frequency ~= 2200.004340
+using 20 random witnesses for Rabin-Miller PRP checks
+
+11/02/18 15:54:46 v1.34.5 @ cryptopuff-5, New random seeds: 2133282796, 2888349288
+
+11/02/18 15:54:49 v1.34.5 @ cryptopuff-5, Processing expression: msieve
+
+11/02/18 15:54:51 v1.34.5 @ cryptopuff-5, Processing expression: 
+
+11/02/18 15:54:51 v1.34.5 @ cryptopuff-5, Processing expression: 
+

@@ -1,0 +1,10 @@
+11/02/18 15:49:09 v1.34.5 @ cryptopuff-5, System/Build Info: 
+Using GMP-ECM 6.4.4, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz
+detected L1 = 32768 bytes, L2 = 31457280 bytes, CL = 64 bytes
+measured cpu frequency ~= 2199.989900
+using 20 random witnesses for Rabin-Miller PRP checks
+
+11/02/18 15:49:09 v1.34.5 @ cryptopuff-5, New random seeds: 784968079, 1626445921
+
